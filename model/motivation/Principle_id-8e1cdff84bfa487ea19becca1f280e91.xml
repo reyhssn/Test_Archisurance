@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maximize Benefit to Enterprise"
+    id="id-8e1cdff84bfa487ea19becca1f280e91"
+    documentation="Decisions are made to provide maximum benefit to ArchiSurance as a whole, not just individual divisions.">
+  <properties
+      key="Rationale"
+      value="Enterprise-wide optimization is essential after the merger to realize synergies and remain competitive."/>
+  <properties
+      key="Implication"
+      value="Some divisions may need to align or compromise for the greater good; governance must be centralized."/>
+</archimate:Principle>

@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Satisfaction"
+    id="id-30d780fe232b447ebb1d6aa08829ee29"
+    documentation="All processes and systems must prioritize customer satisfaction and service quality.&#xD;&#xA;">
+  <properties
+      key="Rationale"
+      value="Retaining customers is vital in a competitive insurance market, especially post-merger."/>
+  <properties
+      key="Implication"
+      value="Customer feedback must be integrated into process and system design; SLAs must be monitored."/>
+</archimate:Principle>

@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance with Legislation"
+    id="id-4de1775381f440af95459c59b538e2b7"
+    documentation="All business activities must comply with insurance regulations and data protection laws.&#xD;&#xA;">
+  <properties
+      key="Rationale"
+      value="Legal compliance avoids fines, reputational damage, and business disruption."/>
+  <properties
+      key="Implication"
+      value="Ongoing monitoring of regulatory changes and regular audits are required."/>
+</archimate:Principle>
