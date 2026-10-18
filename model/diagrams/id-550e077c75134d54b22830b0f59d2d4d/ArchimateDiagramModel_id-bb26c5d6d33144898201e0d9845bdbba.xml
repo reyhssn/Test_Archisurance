@@ -39,11 +39,6 @@
         id="id-ec4bcbf0aaea472baea21f87b453841e"
         source="id-bbaef1f5ea7a4c46951e66a2c53e2fe8"
         target="id-59df0127c48c4ab9925d18fb6881c941">
-      <bendpoints
-          startX="2"
-          startY="82"
-          endX="2"
-          endY="-50"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-97afd2d0ce5b45eeba4da8ada542be27.xml#id-97afd2d0ce5b45eeba4da8ada542be27"/>
@@ -66,6 +61,16 @@
         id="id-2ead25eb79ba4428b526231de54d0041"
         source="id-7e9ef099db064582951ffaf04e9e1032"
         target="id-e9da12c9f41147f2880075877535f658">
+      <bendpoints
+          startX="2"
+          startY="63"
+          endX="-72"
+          endY="-59"/>
+      <bendpoints
+          startX="78"
+          startY="63"
+          endX="4"
+          endY="-59"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-80be91cdd29c40c6a76d4f182678c0a3.xml#id-80be91cdd29c40c6a76d4f182678c0a3"/>
@@ -75,6 +80,16 @@
         id="id-0d43918755cc4d84a9665d9a174783d4"
         source="id-7e9ef099db064582951ffaf04e9e1032"
         target="id-195aad0c4d0242d6b6fafc0958af81e1">
+      <bendpoints
+          startX="2"
+          startY="63"
+          endX="72"
+          endY="-59"/>
+      <bendpoints
+          startX="-85"
+          startY="63"
+          endX="-15"
+          endY="-59"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-c7be0adc0bf6459883060d33dcc75b4e.xml#id-c7be0adc0bf6459883060d33dcc75b4e"/>
@@ -93,8 +108,8 @@
       id="id-195aad0c4d0242d6b6fafc0958af81e1"
       targetConnections="id-0d43918755cc4d84a9665d9a174783d4">
     <bounds
-        x="11"
-        y="274"
+        x="12"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -106,8 +121,8 @@
       id="id-e9da12c9f41147f2880075877535f658"
       targetConnections="id-2ead25eb79ba4428b526231de54d0041">
     <bounds
-        x="155"
-        y="274"
+        x="156"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -119,8 +134,8 @@
       id="id-5669368425a54331b2d37b66bb99fda7"
       targetConnections="id-e9a25d1f43134f7e95fc9e3395f641cc">
     <bounds
-        x="298"
-        y="274"
+        x="300"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -132,8 +147,8 @@
       id="id-2bc4d76e59584c6bada3ab7cc63c2a7c"
       targetConnections="id-25b751abb39a4e03882fe375633c53f9">
     <bounds
-        x="442"
-        y="274"
+        x="444"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -146,7 +161,7 @@
       targetConnections="id-199d5cbd4935490e94df148b88f3b509">
     <bounds
         x="586"
-        y="274"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -162,6 +177,16 @@
         id="id-e9a25d1f43134f7e95fc9e3395f641cc"
         source="id-59df0127c48c4ab9925d18fb6881c941"
         target="id-5669368425a54331b2d37b66bb99fda7">
+      <bendpoints
+          startX="3"
+          startY="64"
+          endX="72"
+          endY="-58"/>
+      <bendpoints
+          startX="-65"
+          startY="64"
+          endX="4"
+          endY="-58"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-93c647ac973f429ead0267e6c3e72992.xml#id-93c647ac973f429ead0267e6c3e72992"/>
@@ -171,6 +196,16 @@
         id="id-25b751abb39a4e03882fe375633c53f9"
         source="id-59df0127c48c4ab9925d18fb6881c941"
         target="id-2bc4d76e59584c6bada3ab7cc63c2a7c">
+      <bendpoints
+          startX="3"
+          startY="64"
+          endX="-72"
+          endY="-58"/>
+      <bendpoints
+          startX="79"
+          startY="64"
+          endX="4"
+          endY="-58"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-b7a9bfb6c2dd460aa163e7b5e9ce055e.xml#id-b7a9bfb6c2dd460aa163e7b5e9ce055e"/>
