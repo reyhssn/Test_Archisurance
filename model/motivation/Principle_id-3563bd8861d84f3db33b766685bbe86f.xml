@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability"
+    id="id-3563bd8861d84f3db33b766685bbe86f"
+    documentation="Statement: Technology components must interoperate across platforms and vendors.&#xD;&#xA;Rationale: Enables integration of systems from merged companies and future partners.&#xD;&#xA;Implication: Adoption of industry standards and protocols is required.&#xD;&#xA;"/>

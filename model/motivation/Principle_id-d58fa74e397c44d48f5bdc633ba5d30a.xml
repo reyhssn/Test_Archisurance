@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scalability and Flexibility"
+    id="id-d58fa74e397c44d48f5bdc633ba5d30a"
+    documentation="Statement: Technology must support business growth and changing needs.&#xD;&#xA;Rationale: Insurance products and channels evolve rapidly; IT must keep pace.&#xD;&#xA;Implication: Technology choices must support scaling and easy upgrades."/>
