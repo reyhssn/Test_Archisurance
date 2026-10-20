@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Common Use Applications"
-    id="id-42a49082a6b24cbba96fd866743f820b"/>
+    id="id-42a49082a6b24cbba96fd866743f820b"
+    documentation="Statement : &#xD;&#xA;Development of applications used &#xD;&#xA;across the enterprise is preferred &#xD;&#xA;over the development of similar or &#xD;&#xA;duplicative applications which are &#xD;&#xA;only provided to a particular &#xD;&#xA;organization&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Reduces redundancy, maintenance &#xD;&#xA;costs, and enables better data &#xD;&#xA;sharing post-merger.&#xD;&#xA;&#xD;&#xA;Implication:&#xD;&#xA;Organizations which depend on a &#xD;&#xA;capability which does not serve the&#xD;&#xA;entire enterprise must change over &#xD;&#xA;to the replacement enterprise-wide&#xD;&#xA;capability; "/>
