@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="13 Application Principle"
+    id="id-f9016e1f927b4d0ea066271dd2af1f1e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cd0e1e6ca3134567a2385a2988f4e75e">
+    <bounds
+        x="184"
+        y="131"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-42a49082a6b24cbba96fd866743f820b.xml#id-42a49082a6b24cbba96fd866743f820b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3c543fbe0baa422a95e8c3f1e8e50859">
+    <bounds
+        x="180"
+        y="216"
+        width="153"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-6deab09b0a754c38a616ede85c20be5b.xml#id-6deab09b0a754c38a616ede85c20be5b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-274658e8848c4e74903724b0b62a7670">
+    <bounds
+        x="184"
+        y="300"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-e0c97b8c6a2544599db8f677759620b6.xml#id-e0c97b8c6a2544599db8f677759620b6"/>
+  </children>
+</archimate:ArchimateDiagramModel>
