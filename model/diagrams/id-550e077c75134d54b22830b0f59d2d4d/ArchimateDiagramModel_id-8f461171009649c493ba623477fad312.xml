@@ -1025,9 +1025,9 @@
     </sourceConnections>
     <bounds
         x="924"
-        y="408"
+        y="442"
         width="120"
-        height="193"/>
+        height="134"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-4ea3d0a9e84a499db79223fe296ec27e.xml#id-4ea3d0a9e84a499db79223fe296ec27e"/>
