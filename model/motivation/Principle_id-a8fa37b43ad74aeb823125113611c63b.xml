@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Sharing and Integration"
-    id="id-a8fa37b43ad74aeb823125113611c63b"/>
+    id="id-a8fa37b43ad74aeb823125113611c63b"
+    documentation="Statement : &#xD;&#xA;Data should flow seamlessly across &#xD;&#xA;business units and systems, &#xD;&#xA;eliminating silos from pre-merger &#xD;&#xA;organizations.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Integration ensures that all &#xD;&#xA;customer interactions and reporting &#xD;&#xA;use unified, accurate data&#xD;&#xA;&#xD;&#xA;Implication:&#xD;&#xA;Develop enterprise data integration &#xD;&#xA;architecture and shared repositories &#xD;&#xA;accessible to authorized units."/>

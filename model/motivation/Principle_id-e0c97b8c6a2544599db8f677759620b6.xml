@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Orientation"
-    id="id-e0c97b8c6a2544599db8f677759620b6"/>
+    id="id-e0c97b8c6a2544599db8f677759620b6"
+    documentation="Statement : &#xD;&#xA;Applications should be designed as &#xD;&#xA;modular, reusable services.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Supports agility, integration, and &#xD;&#xA;reuse across business processes.&#xD;&#xA;&#xD;&#xA;Implication:&#xD;&#xA;Investment in service design and &#xD;&#xA;governance is required."/>

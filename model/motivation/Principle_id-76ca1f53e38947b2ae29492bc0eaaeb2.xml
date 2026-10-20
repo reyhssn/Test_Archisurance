@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure Simplification"
+    id="id-76ca1f53e38947b2ae29492bc0eaaeb2"
+    documentation="Statement: Technology infrastructure should be consolidated and standardized.&#xD;&#xA;Rationale: Simplifies management, reduces costs, and increases reliability.&#xD;&#xA;Implication: Migration to shared clusters and decommissioning of redundant servers is required."/>
