@@ -51,4 +51,16 @@
         xsi:type="archimate:Principle"
         href="Principle_id-3563bd8861d84f3db33b766685bbe86f.xml#id-3563bd8861d84f3db33b766685bbe86f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f6ab50d4c10b47cf95a6a3e45cd6a6e0">
+    <bounds
+        x="482"
+        y="212"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_id-3e55fd1f3e554d55815905544dabbb09.xml#id-3e55fd1f3e554d55815905544dabbb09"/>
+  </children>
 </archimate:ArchimateDiagramModel>
