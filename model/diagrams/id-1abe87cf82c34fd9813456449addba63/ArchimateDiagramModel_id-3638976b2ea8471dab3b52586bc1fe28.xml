@@ -298,15 +298,6 @@
         </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-626869c71b2c49f7b047bcc4e1edb8ce"
-            source="id-93fbadd99a634179ad68fd34671b7a04"
-            target="id-d6bbd42e7b5c444a993a2ac77546bf3f">
-          <archimateRelationship
-              xsi:type="archimate:AssignmentRelationship"
-              href="AssignmentRelationship_id-1623554761d74ede86738c5dec926d2d.xml#id-1623554761d74ede86738c5dec926d2d"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-759eb7c094d9448b8eb967999ee53e6d"
             source="id-93fbadd99a634179ad68fd34671b7a04"
             target="id-7225a050801b441381b1d321a29a2771">
@@ -323,19 +314,6 @@
             y="48"
             width="144"
             height="132"/>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-d6bbd42e7b5c444a993a2ac77546bf3f"
-            targetConnections="id-626869c71b2c49f7b047bcc4e1edb8ce">
-          <bounds
-              x="12"
-              y="60"
-              width="120"
-              height="55"/>
-          <archimateElement
-              xsi:type="archimate:Artifact"
-              href="Artifact_id-9a06577a37a4404f9714bf85333e78d0.xml#id-9a06577a37a4404f9714bf85333e78d0"/>
-        </children>
         <archimateElement
             xsi:type="archimate:Node"
             href="Node_id-184f1554179b42d8ae2f6fb5f28c355c.xml#id-184f1554179b42d8ae2f6fb5f28c355c"/>

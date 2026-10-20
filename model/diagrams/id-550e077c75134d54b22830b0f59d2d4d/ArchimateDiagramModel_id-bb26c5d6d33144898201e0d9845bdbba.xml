@@ -17,8 +17,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5669368425a54331b2d37b66bb99fda7"
-      targetConnections="id-e9a25d1f43134f7e95fc9e3395f641cc">
+      id="id-5669368425a54331b2d37b66bb99fda7">
     <bounds
         x="300"
         y="300"
@@ -30,8 +29,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2bc4d76e59584c6bada3ab7cc63c2a7c"
-      targetConnections="id-25b751abb39a4e03882fe375633c53f9">
+      id="id-2bc4d76e59584c6bada3ab7cc63c2a7c">
     <bounds
         x="444"
         y="300"
@@ -40,56 +38,6 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-6599e85656d44896a28f49cc5d44e879.xml#id-6599e85656d44896a28f49cc5d44e879"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-59df0127c48c4ab9925d18fb6881c941">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e9a25d1f43134f7e95fc9e3395f641cc"
-        source="id-59df0127c48c4ab9925d18fb6881c941"
-        target="id-5669368425a54331b2d37b66bb99fda7">
-      <bendpoints
-          startX="3"
-          startY="64"
-          endX="72"
-          endY="-58"/>
-      <bendpoints
-          startX="-65"
-          startY="64"
-          endX="4"
-          endY="-58"/>
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-93c647ac973f429ead0267e6c3e72992.xml#id-93c647ac973f429ead0267e6c3e72992"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-25b751abb39a4e03882fe375633c53f9"
-        source="id-59df0127c48c4ab9925d18fb6881c941"
-        target="id-2bc4d76e59584c6bada3ab7cc63c2a7c">
-      <bendpoints
-          startX="3"
-          startY="64"
-          endX="-72"
-          endY="-58"/>
-      <bendpoints
-          startX="79"
-          startY="64"
-          endX="4"
-          endY="-58"/>
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-b7a9bfb6c2dd460aa163e7b5e9ce055e.xml#id-b7a9bfb6c2dd460aa163e7b5e9ce055e"/>
-    </sourceConnections>
-    <bounds
-        x="370"
-        y="178"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Location"
-        href="Location_id-3ff51da1f9184a0495f4133e5b851adb.xml#id-3ff51da1f9184a0495f4133e5b851adb"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
