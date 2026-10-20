@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Quality and Consistency"
-    id="id-8ed3b21d7d5b44ab82933b3a462c6920"/>
+    id="id-8ed3b21d7d5b44ab82933b3a462c6920"
+    documentation="Statement : &#xD;&#xA;Data must be accurate, complete, &#xD;&#xA;and timely throughout its lifecycle.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Reliable data supports trustworthy &#xD;&#xA;analytics and consistent customer &#xD;&#xA;experiences.&#xD;&#xA;&#xD;&#xA;Implication:&#xD;&#xA;Enforce data validation rules, &#xD;&#xA;cleansing, and common master data &#xD;&#xA;standards."/>
