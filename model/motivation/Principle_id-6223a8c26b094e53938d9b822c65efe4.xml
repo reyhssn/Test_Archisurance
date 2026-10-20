@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data as an Enterprise Asset"
-    id="id-6223a8c26b094e53938d9b822c65efe4"/>
+    id="id-6223a8c26b094e53938d9b822c65efe4"
+    documentation="Statement : &#xD;&#xA;All data across ArchiSurance &#xD;&#xA;(customer, policy, claims) is a &#xD;&#xA;valuable corporate resource that &#xD;&#xA;must be managed and governed &#xD;&#xA;holistically&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Data is central to underwriting, &#xD;&#xA;claims, and customer engagement &#xD;&#xA;decisions&#xD;&#xA;&#xD;&#xA;Implication:&#xD;&#xA;Requires enterprise-wide data &#xD;&#xA;ownership, stewardship, and &#xD;&#xA;governance policies"/>

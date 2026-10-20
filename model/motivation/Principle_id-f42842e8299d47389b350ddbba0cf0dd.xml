@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Security and Compliance"
-    id="id-f42842e8299d47389b350ddbba0cf0dd"/>
+    id="id-f42842e8299d47389b350ddbba0cf0dd"
+    documentation="Statement : &#xD;&#xA;Data must be protected from &#xD;&#xA;unauthorized use while complying &#xD;&#xA;with insurance and privacy &#xD;&#xA;regulations&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Protecting policyholder information &#xD;&#xA;maintains trust and meets legal &#xD;&#xA;obligations&#xD;&#xA;&#xD;&#xA;Implication:&#xD;&#xA;Implement access controls, &#xD;&#xA;encryption, and continuous &#xD;&#xA;monitoring across systems."/>
